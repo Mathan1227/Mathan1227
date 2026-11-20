@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mathan1227.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/Mathan1227/Mathan1227/main/header.png" alt="Mathan Dinesh - Full-Stack Developer & AI Engineer" width="100%" />
+    <img src="header.svg" alt="Mathan Dinesh - Full-Stack Developer & AI Systems Engineer" width="100%" />
   </a>
 </p>
 
